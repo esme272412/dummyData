@@ -1,0 +1,12 @@
+[
+    {"topic_id": 1, "topic_name": "Technology"},
+    {"topic_id": 2, "topic_name": "Science"},
+    {"topic_id": 3, "topic_name": "Artificial Intelligence"},
+    {"topic_id": 4, "topic_name": "Space Exploration"},
+    {"topic_id": 5, "topic_name": "History"},
+    {"topic_id": 6, "topic_name": "Philosophy"},
+    {"topic_id": 7, "topic_name": "Health"},
+    {"topic_id": 8, "topic_name": "Environment"},
+    {"topic_id": 9, "topic_name": "Business"},
+    {"topic_id": 10, "topic_name": "Education"}
+]
